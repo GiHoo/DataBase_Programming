@@ -1,0 +1,8 @@
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_홀수반_2조_황인찬_과제자료(최호준, 김남규, 김영록)\DBP_ClinicHelper\ClinicHelper.Utils\bin\Release\ClinicHelper.Utils.dll
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_홀수반_2조_황인찬_과제자료(최호준, 김남규, 김영록)\DBP_ClinicHelper\ClinicHelper.Utils\bin\Release\ClinicHelper.Utils.pdb
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_홀수반_2조_황인찬_과제자료(최호준, 김남규, 김영록)\DBP_ClinicHelper\ClinicHelper.Utils\bin\Release\Oracle.DataAccess.dll
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_홀수반_2조_황인찬_과제자료(최호준, 김남규, 김영록)\DBP_ClinicHelper\ClinicHelper.Utils\obj\Release\ClinicHelper.Utils.csproj.AssemblyReference.cache
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_홀수반_2조_황인찬_과제자료(최호준, 김남규, 김영록)\DBP_ClinicHelper\ClinicHelper.Utils\obj\Release\ClinicHelper.Utils.csproj.CoreCompileInputs.cache
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_홀수반_2조_황인찬_과제자료(최호준, 김남규, 김영록)\DBP_ClinicHelper\ClinicHelper.Utils\obj\Release\ClinicHelper.Utils.csproj.CopyComplete
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_홀수반_2조_황인찬_과제자료(최호준, 김남규, 김영록)\DBP_ClinicHelper\ClinicHelper.Utils\obj\Release\ClinicHelper.Utils.dll
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_홀수반_2조_황인찬_과제자료(최호준, 김남규, 김영록)\DBP_ClinicHelper\ClinicHelper.Utils\obj\Release\ClinicHelper.Utils.pdb

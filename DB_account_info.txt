@@ -1,0 +1,8 @@
+사용자명: clinic
+비밀번호: 1111
+
+최종 솔루션은 위와 같은 이름과 비밀번호를 가진 계정을 가정하고 작성되었음.
+
+만약 다른 계정으로 프로젝트를 실행하고자 하는 경우,
+① 솔루션 -> ClinicHelper.Utils 프로젝트 -> DBManager.cs -> DatabaseManager 클래스 이동
+② CONNECTION_DATA 변수의 내용을 사용하고자 하는 계정으로 수정

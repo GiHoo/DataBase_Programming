@@ -1,0 +1,8 @@
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_ClinicHelper\ClinicHelper.Utils\bin\Debug\ClinicHelper.Utils.dll
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_ClinicHelper\ClinicHelper.Utils\bin\Debug\ClinicHelper.Utils.pdb
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_ClinicHelper\ClinicHelper.Utils\bin\Debug\Oracle.DataAccess.dll
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_ClinicHelper\ClinicHelper.Utils\obj\Debug\ClinicHelper.Utils.csproj.AssemblyReference.cache
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_ClinicHelper\ClinicHelper.Utils\obj\Debug\ClinicHelper.Utils.csproj.CoreCompileInputs.cache
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_ClinicHelper\ClinicHelper.Utils\obj\Debug\ClinicHelper.Utils.csproj.CopyComplete
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_ClinicHelper\ClinicHelper.Utils\obj\Debug\ClinicHelper.Utils.dll
+D:\학교 자료\3학년 2학기\데이터베이스 프로그래밍\팀 프로젝트\DBP_ClinicHelper\ClinicHelper.Utils\obj\Debug\ClinicHelper.Utils.pdb
